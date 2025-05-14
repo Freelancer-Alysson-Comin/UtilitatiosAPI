@@ -1,0 +1,45 @@
+﻿cnpj_cpf;inscricao_estadual_RG;razao_social_nome;nome_fantasia_apelido;endereco;numero;complemento;bairro;cidade;estado;cep;telefone1;telefone2;contato_nome;contato_telefone;email;observacao;id_vendedor;codigo_vendedor;codigo_ramo_atividade;exterior;exterior_nome_cidade;id_importacao;referencia_busca
+;;Medida Base;Unipessoal Lda;Estrada Serra da Mira;3-B;;-;;EX;99999-999;;;;;paulaesteves@medidabase.pt;;1;1;5;True;Amadora;32423;3
+55644056000170;;Centro Educacional Evolution;Centro Educacional Evolution;Av padre antônio luiz dias-30;30;escola;centro;araranguá;SC;88900000;48991584784;;;;financeiro@ceevolution.com;;1;1;4;False;;34561;3
+14430488797;;Pensier Eloy Di Lonardo Neto;Pensier Eloy Di Lonardo Neto;avenida carolina fraga;403;;centro;Atílio Vivácqua;ES;29490000;28998867932;;;;pensiereloy@gmail.com;;1;1;2;False;;34543;3
+;;Leonardo Fernandes E Morais Lda;Leonardo Fernandes E Morais Lda;Rua Central;1C;;;;EX;99999-999;19967798664;;;;leomachadopt@gmail.com;;1;1;5;True;Aveiro;30385;3
+03170027000110;;Megatelecom Telecomunicações S.a.;Megatelecom Telecomunicações S.a.;Av. Ipanema,;165;18º Andar;Alphaville;Barueri;SP;64720002;11957089137;;;;marcelo.miranda@megatelecom.com.br;;1;1;4;False;;9503;3
+;;Hubzome Lda;Hubzome Lda;RUA DO COMPLEXO DESPORTIVO,;36;;pt;;EX;99999-999;;;;;julio.quintela@zome.pt;;1;1;5;True;BRAGA;33048;3
+13889358721;;Rodrigo De Oliveira Correa;Rodrigo De Oliveira Correa;vs52;64;casa;vs52;canaã dos carajás;PA;68537000;94991962706;;;;rodrigokfe88@hotmail.com;;1;1;2;False;;34889;3
+88088944953;;Marco Aurélio Travizan;Marco Aurélio Travizan;rua erechim;578;E;centro;cascavel;PR;85912260;45991016960;;;;injetronic.pecas@uol.com.br;;1;1;2;False;;6055;3
+10683064916;;Mágda Leticia Pedroso Pereira;Mágda Leticia Pedroso Pereira;Rua Uruguai;288;;Centro;Chepecó;SC;89801570;49988385264;;;;pmagdaleticia@gmail.com;;1;1;2;False;;33879;3
+11149154000166;;Skynetweb Comunicacoes Ltda;Skynet Telecom;Avenida Ipiranga;1395;;Centro;Chiapeta;RS;98760000;55984545509;;;;fernando@skynetweb.com.br;;1;1;4;False;;30713;3
+;;Ionela Contor;Ionela Contor;Los abetos;22;;Azuqueca de henares;;EX;99999-999;;;;;nela.contor.4c@gmail.com;;1;1;5;True;Guadalajara;5979;3
+;;Consolidador Book Soft;Consolidador Book Soft;Avenida da República;48;B- 6º Dto;;;EX;99999-999;19911938161;;;;marketing@consolidador.com;;1;1;5;True;LISBOA;8751;3
+;;Sjpr Accountants Ltd;Sjpr Accountants Ltd;Clapham Road;225;SW9 9BE;;;EX;99999-999;;;;;sansao@sjpr.co.uk;;1;1;5;True;london;29111;3
+;;Humberto Reduto;Reilar, Smi Lda;Praceta Padre Abel Varzim;3 A;Loja 2;Bobadela;;EX;99999-999;;;;;humbertoreduto@reilar.pt;;1;1;5;True;Loures;33160;3
+37049636000150;;Allan Pj 010;Allan Pj 010;Travessa Içanã;sn;;Vila Buriti;Manaus;AM;69072026;3133339999;;;;allanpj010@redrive.com.br;;1;1;5;False;;31807;3
+;;Empresa De Teste 036;Empresa De Teste 036;rua geraldo ferreira;sn;;centro;MANAUS;AM;69001100;31983838281;;;;empresadeteste036@redrive.com.br;;1;1;5;False;;31557;3
+;;Empresa De Teste 035;Empresa De Teste 035;rua talisma;sn;;talisma;MANAUS;AM;69035035;;;;;empresadeteste035@redrive.com.br;;1;1;5;False;;31556;3
+;;Empresa De Teste 034;Empresa De Teste 034;Travessa Içanã;sn;;Vila Buriti;MANAUS;AM;69072026;31981818487;;;;empresa.teste034@redrive.com.br;;1;1;5;False;;31520;3
+;;Empresa De Teste 033;Empresa De Teste 033;Travessa Içanã;sn;;Vila Buriti;MANAUS;AM;69072026;31981818282;;;;empresa.teste033@redrive.com.br;;1;1;5;False;;31518;3
+;;Empresa De Teste 027;Empresa De Teste 027;Travessa Içanã;sn;;Vila Buriti;Manaus;AM;69072026;31984848787;;;;empresa.teste027@redrive.com.br;;1;1;5;False;;31482;3
+;;Empresa De Teste 026;Empresa De Teste 026;Travessa Içanã;sn;;Vila Buriti;Manaus;AM;69072026;31988448844;;;;empresa.teste026@redrive.com.br;;1;1;5;False;;31480;3
+;;Empresa De Teste 025;Empresa De Teste 025;Travessa Içanã;sn;;Vila Buriti;Manaus;AM;69072026;31987878787;;;;empresa.teste025@redrive.com.br;;1;1;5;False;;31469;3
+;;Empresa De Teste 024;Empresa De Teste 024;Travessa Içanã;sn;;Vila Buriti;Manaus;AM;69072026;31988787878;;;;empresa.teste024@redrive.com.br;;1;1;5;False;;31468;3
+;;Empresa De Teste 023;Empresa De Teste 023;Travessa Içanã;sn;;Vila Buriti;Manaus;AM;69072026;31988888887;;;;empresa.teste023@redrive.com.br;;1;1;5;False;;31439;3
+;;Empresa De Teste 022;Empresa De Teste 022;Travessa Içanã;sn;;Vila Buriti;Manaus;AM;69072026;31988888888;;;;empresa.teste022@redrive.com.br;;1;1;5;False;;31438;3
+;;Empresa De Teste 021;Teste Ltda 021;Travessa Içanã;sn;;Vila Buriti;Manaus;AM;69072026;3133339999;;;;empresa.teste021@redrive.com.br;;1;1;5;False;;31437;3
+;;Empresa De Teste 020;Teste Ltda 020;Travessa Içanã;sn;;Vila Buriti;Manaus;AM;69072026;3133339988;;;;empresa.teste020@redrive.com.br;;1;1;5;False;;31436;3
+;;Dikson Borge Pedro;Dikson Borge Pedro;Av. Ahmed Sekou Toure;2689;;;;EX;99999-999;;;;;diksonpedro61@gmail.com;;1;1;5;True;Maputo;35105;3
+86440674000122;;Lider Tintas;Lider Tintas;Rua Tiradentes;3195;;Industrial;miami bech;MG;32230020;31994637149;;;;lucas@lidertintas.com;;1;1;4;False;;33886;3
+02094943607;;Gustavo Enrico Oliveira Mendes;Gustavo Enrico Oliveira Mendes;Rua vicente braga;1173;;Vila Atlantida;Montes Claros;mg;39401135;38988177972;;;;gustavoenricooliveiramendes190@gmail.com;;1;1;2;False;;34451;3
+;;Chama Imensa, Lda;Chama Imensa, Lda;Largo Leonor Faria Gomes;13;;R/C Esq. Retaguarda;;EX;99999-999;;;;;sevenhillslxrealtors@kwportugal.pt;;1;1;5;True;Paço de Arcos;33508;3
+55778655000187;;Gustavo Sousa Lago;Gustavo Sousa Lago;rua espanha / amec residencial qd 05 casa;18;;Habitar feliz;parauapebas;PA;68515000;91992978501;;;;gustavolago182@outlook.com;;1;1;4;False;;33909;3
+08903279638;;Samira Aparecida De Souza Bento;Samira Aparecida De Souza Bento;Rua Prefeito Chagas;100;221;Centro;POÇOS DE CALDAS/MG;MG;37701970;35997319953;;;;bentobentosouza30@gmail.com;;1;1;2;False;;33926;3
+;;Thiago Farias Dantas;Thiago Farias Dantas;Rua Pedro Hispano;1186;;;;EX;99999-999;1933659217;;;;thiagodantas020@gmail.com;;1;1;5;True;Porto;34092;3
+57567942000173;;Pedro Henrique Rabelo;Pedro Henrique Rabelo;rua marques amorim;136;2º andar;ilha do leite;recife;PE;50070330;81989017484;;;;pedro@leaditcompany.com;;1;1;4;False;;34438;3
+08705048516;;Leonardo Oliveira De Jesus;Leonardo Oliveira De Jesus;Rua Dalcídio jurandir;255;;Barra Da Tijuca;Rio de Janeiro;RJ;21631250;21968993393;;;;odjleonardo@gmail.com;;1;1;2;False;;33948;3
+00847722554;;Gilson Santos Ferreira Junior;Gilson Santos Ferreira Junior;Rua Timbiras;50;casa;Jardim São Francisco;Santa Bárbara D'Oeste;SP;13456086;19997370037;;;;gilson.junior@unidas.com.br;;1;1;2;False;;33824;3
+43730456822;;Dennis Felipe Souza Dos Santos;Dennis Felipe Souza Dos Santos;Rua do Manganês;737;até 1370/1371;Vila Mollon IV;Santa Bárbara D'Oeste;SP;13456515;19999963009;;;;dennis.ademicon@gmail.com;;1;1;2;False;;32860;3
+01721176748;;Ivair Maximo;Ivair Maximo;R. Eurico sales;80;;Centro;São Gabriel da Palha;ES;29780000;27999479333;;;;ivairmaximo@hotmail.com;;1;1;2;False;;6825;3
+06107852140;;Maridane Tavares;Maridane Tavares;RUA CARINI;1088;;residencial florença;sinop;MT;78552225;66996184975;;;;gruposafiracomercial@outlook.com;;1;1;2;False;;35025;3
+81149131934;;Fabiano Costa Mincoff;Fabiano Costa Mincoff;Barao de tatui;141;;centrp;Sorocaba;SP;18300000;44999611793;;;;fcmincoff@gmail.com;;1;1;2;False;;28486;3
+43299912844;;Nicole S Alves;Nicole S Alves;Av. General Carneiro;1427;apto 31 bloco f;Vila Lucy;sorocaba;SP;18047004;;;;;jotamujalli@gmail.com;;1;1;2;False;;29415;3
+;;Flávio H Gonçalves;Flávio H Gonçalves;Rua do Palame;2;AP B;Dona Maria, Almargem do Bisbo, Sintra;;EX;99999-999;19915031104;;;;flaviohgoncalves@gmail.com;;1;1;5;True;;35128;3
+;;Garantecomeço - Mediação Imobiliária Unipessoal Lda;Garantecomeço - Mediação Imobiliária Unipessoal Lda;Rua: Cidade de Viseu;7;Corroios - PT;r/c dto;;EX;99999-999;;;;;cassiacerqueira022@gmail.com;;1;1;5;True;;31617;3

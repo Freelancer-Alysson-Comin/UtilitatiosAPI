@@ -1,0 +1,7 @@
+referencia_busca_cliente;referencia;numero;servicos.nao_faturavel;recorrencia;id_importacao_pessoa;servicos.quantidade;servicos.valor_unitario;data_primeiro_vencimento;dia_vencimento;servicos.data_inicio_servico;data_vigencia_inicial;data_vigencia_final;servicos.data_reajuste;data_proximo_reajuste;servicos.referencia;tipo_faturamento;codigo_plano_contas;servicos.codigos_vendedores;codigo_vendedor;servicos.comissoes;servicos.codigo_politica_comissao;codigo_banco_conta;codigo_forma_pagamento;indice_reajuste
+1;2127;;;1;8363;1;164,54;10/05/2025;10;01/05/2002;01/05/2002;;03/04/2026;03/04/2026;116;1;133;18;18;45;1;2;5;0
+1;2127;;;1;8363;14;31,17;10/05/2025;10;01/08/2020;01/08/2020;;01/08/2025;01/08/2025;4;1;133;18;18;45;1;2;5;0
+1;2127;;;1;8363;1;120,01;10/05/2025;10;01/05/2023;01/05/2023;;03/05/2025;03/05/2025;120;1;133;18;18;45;1;2;5;0
+1;2127;;;1;8363;2;45;10/05/2025;10;01/05/2023;01/05/2023;;03/05/2025;03/05/2025;95;1;133;18;18;45;1;2;5;0
+1;2127;;;1;8363;1;45;10/05/2025;10;01/05/2023;01/05/2023;;03/05/2025;03/05/2025;117;1;133;18;18;45;1;2;5;0
+1;2127;;;1;8363;2;95,01;10/05/2025;10;01/05/2023;01/05/2023;;03/05/2025;03/05/2025;18;1;133;18;18;45;1;2;5;0

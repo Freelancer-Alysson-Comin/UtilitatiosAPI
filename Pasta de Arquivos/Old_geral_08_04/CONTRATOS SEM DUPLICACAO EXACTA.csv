@@ -1,0 +1,9 @@
+referencia;cnpj_cpf_cliente;data_vigencia_inicial;data_vigencia_final;dia_vencimento;data_primeiro_vencimento;situacao;recorrencia;servicos.referencia;servicos.valor_unitario;codigo_forma_pagamento;codigo_banco_conta;tipo_faturamento;codigo_vendedor
+176;52.416.541/0001-07;01/01/2022;31/12/2030;10;10/07/2025;1;12;1;352,00;6;2;0;1
+177;59.717.783/0001-71;01/01/2022;31/12/2030;10;10/04/2025;1;1;1;600,00;5;2;1;1
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;

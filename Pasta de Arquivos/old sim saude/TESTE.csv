@@ -1,0 +1,2 @@
+id;nome_cliente;cnpj_cliente;numero;parcela;emissao;vencimento;ultimo_pagamento;observacao;plano_contas;nome_centro_resultados_1;percentual_centro_resultados_1;valor;valor_pago;juros;desconto;banco;forma_pagamento
+23092025;PREFEITURA MUNICIPAL DE LAGOINHA /SP;;1;1;12/01/2022;12/01/2022;12/01/2022;NF:44 REF:12/2021 LAGOINHA/SP;Recebimentos em PIX/TED/TEV/DOC;LAGOINHA/SP;100;63734,82 ;63734,82 ;0,00;0,00;SANTANDER;PIX/TED/TEV/DOC

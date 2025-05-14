@@ -1,0 +1,3 @@
+numero;referencia;servicos.referencia;descricao;servicos.quantidade;servicos.valor_unitario;dia_vencimento;data_proximo_reajuste;data_primeiro_vencimento;data_vigencia_final;recorrencia;codigo_vendedor;cnpj_cpf_cliente;codigo_forma_pagamento;tipo_faturamento;codigo_banco_conta
+REVENDA;teste;12;TefPay ;1;163,19;5;17/02/2025;01/12/2016;;1;8;19180633000157;5;1;3
+REVENDA;teste;13;TefPay  WEB II;1;163,19;5;17/02/2025;01/08/2017;;1;8;19180633000157;5;1;3

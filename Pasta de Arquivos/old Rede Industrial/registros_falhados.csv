@@ -1,0 +1,2 @@
+﻿cnpj_cpf_cliente,referencia,data_primeiro_vencimento,dia_vencimento,descricao,numero,codigo_vendedor,data_vigencia_inicial,data_vigencia_final,situacao,recorrencia,tipo_faturamento,indice_reajuste,codigo_banco_conta,codigo_forma_pagamento,codigo_plano_contas,codigo_condicao_pagamento,observacao_fiscal,observacao_nao_fiscal,servicos.referencia,servicos.quantidade,servicos.valor_unitario,servicos.complemento,Mensagem,Id
+,,,,,,,,,,,,,,,,,,,1,1,,,Erro HTTP: 500 Server Error: Internal Server Error for url: http://redeindustrial.flyerp.com.br/apis/CadastrarContrato,N/A

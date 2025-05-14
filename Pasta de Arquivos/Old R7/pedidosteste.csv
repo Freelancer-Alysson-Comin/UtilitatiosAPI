@@ -1,0 +1,2 @@
+cnpj_cpf_cliente;data_emissao;data_entrega;itens.codigo_servico_produto;itens.valor_unitario;itens.quantidade;parcelas.valor;parcelas.vencimento;codigo_operacao_fiscal;codigo_banco_conta;codigo_forma_pagamento;codigo_vendedor;codigo_condicao_pagamento
+54.822.928/0001-80;12/11/2024;12/11/2024;14;600,00;1;600,00;29/11/2024;16;2;5;1;7

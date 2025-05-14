@@ -1,0 +1,4 @@
+referencia;numero;referencia_busca_cliente;servicos.nao_faturavel;recorrencia;id_importacao_pessoa;servicos.quantidade;servicos.valor_unitario;data_primeiro_vencimento;dia_vencimento;servicos.data_inicio_servico;data_vigencia_inicial;data_vigencia_final;servicos.data_reajuste;data_proximo_reajuste;servicos.referencia;ipo_faturamento;codigo_plano_contas;servicos.codigos_vendedores;servicos.comissoes;servicos.codigo_politica_comissao;codigo_banco_conta;odigo_forma_pagamento;indice_reajuste
+5222;;1;;1;12146;1;300;03/05/2025;3;15/08/2024;15/08/2024;;;;4;1;133;18;60;1;2;5;0
+5222;;1;;1;12146;1;0,01;03/05/2025;3;18/08/2024;18/08/2024;;;;4;1;133;18;60;1;2;5;0
+5222;;1;;1;12146;1;0,01;03/05/2025;3;15/08/2024;15/08/2024;;;;123;1;133;18;0;1;2;5;0

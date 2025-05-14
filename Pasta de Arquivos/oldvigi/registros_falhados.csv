@@ -1,0 +1,2 @@
+﻿cnpj_cpf_cliente,referencia,data_primeiro_vencimento,dia_vencimento,descricao,numero,codigo_vendedor,data_vigencia_inicial,data_vigencia_final,situacao,recorrencia,tipo_faturamento,indice_reajuste,codigo_banco_conta,codigo_forma_pagamento,codigo_plano_contas,codigo_condicao_pagamento,observacao_fiscal,observacao_nao_fiscal,servicos.referencia,servicos.quantidade,servicos.valor_unitario,Mensagem,Id
+45096989000460,409,10/10/2024,10,,,1,01/06/2024,01/05/2026,1,1,0,0,2,5,,,,,17,,"850,00",Cliente não encontrado!,N/A

@@ -1,0 +1,1 @@
+﻿id,nome_cliente,cnpj_cliente,id_importacao_cliente,chave_pix,numero,parcela,emissao,vencimento,ultimo_pagamento,valor,valor_pago,juros,desconto,numero_nf,serie_nf,banco,plano_contas,forma_pagamento,observacao,nome_centro_resultados_1,percentual_centro_resultados_1,nome_centro_resultados_2,percentual_centro_resultados_2,referencia_busca_pessoa,Mensagem,Id

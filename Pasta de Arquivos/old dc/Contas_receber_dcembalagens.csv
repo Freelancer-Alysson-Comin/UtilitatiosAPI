@@ -1,0 +1,2 @@
+codigo_pessoa;id_importacao;numero_titulo;observacao;cpfcnpj_pessoa;parcela;codigo_plano_contas;valor_desconto_pago;numero_documento;codigo_banco;codigo_forma_pagamento;data_emissao;data_vencimento;valor;valor_juros_pago;data_ultimo_pagamento;valor_pago
+;1;29;;09.663.627/0001-05;1;7;0;;1;4;12/05/2020;27/05/2020;1207,5;0;27/05/2020;1207,5

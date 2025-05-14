@@ -1,0 +1,12 @@
+﻿cnpj_cpf,inscricao_estadual_RG,razao_social_nome,nome_fantasia_apelido,endereco,numero,complemento,bairro,cidade,estado,cep,telefone1,telefone2,contato_nome,contato_telefone,email,observacao,id_vendedor,codigo_vendedor,codigo_ramo_atividade,somente_criacao,exterior,exterior_nome_cidade,id_importacao,referencia_busca,Mensagem,Id
+,,Dikson Borge Pedro,Dikson Borge Pedro,Av. Ahmed Sekou Toure,2689,,,,EX,1100,,,,,diksonpedro61@gmail.com,,1,1,5,False,True,Maputo,35105,3,O bairro é obrigatório. ,N/A
+2094943607,,Gustavo Enrico Oliveira Mendes,Gustavo Enrico Oliveira Mendes,Rua vicente braga,1173,,Vila Atlantida,Montes Claros,MG,39401135,38988177972,,,,gustavoenricooliveiramendes190@gmail.com,,1,1,5,False,False,,34451,3,CNPJ inválido. Entre com um CNPJ válido. ,N/A
+,,Thiago Farias Dantas,Thiago Farias Dantas,Rua Pedro Hispano,1186,,,Porto,EX,4250365,1933659217,,,,thiagodantas020@gmail.com,,1,1,5,False,True,Porto,34092,3,O bairro é obrigatório. ,N/A
+8903279638,,Samira Aparecida De Souza Bento,Samira Aparecida De Souza Bento,Rua Prefeito Chagas,100,221,Centro,POÇOS DE CALDAS,MG,37701970,35997319953,,,,bentobentosouza30@gmail.com,,1,1,5,False,False,,33926,3,CNPJ inválido. Entre com um CNPJ válido. ,N/A
+847722554,,Gilson Santos Ferreira Junior,Gilson Santos Ferreira Junior,Rua Timbiras,50,casa,Jardim São Francisco,Santa Bárbara DOeste,SP,13456086,19997370037,,,,gilson.junior@unidas.com.br,,1,1,5,False,False,,33824,3,CNPJ inválido. Entre com um CNPJ válido. ,N/A
+37049636000150,,Allan Pj 010,Allan Pj 010,Travessa Içanã,0,,Vila Buriti,Manaus,AM,69072026,3133339999,,,,allanpj010@redrive.com.br,,1,1,5,False,False,,31807,3,CNPJ inválido. Entre com um CNPJ válido. ,N/A
+,,Leonardo Fernandes E Morais Lda,Leonardo Fernandes E Morais Lda,Rua Central,1C,,,,EX,3810233,19967798664,,,,leomachadopt@gmail.com,,1,1,5,False,True,Aveiro,30385,3,O bairro é obrigatório. ,N/A
+,,Sjpr Accountants Ltd,Sjpr Accountants Ltd,Clapham Road,225,SW9 9BE,,,EX,,,,,,sansao@sjpr.co.uk,,1,1,5,False,True,london,29111,3,O bairro é obrigatório. ,N/A
+,,Consolidador Book Soft,Consolidador Book Soft,Avenida da República,48,B- 6º Dto,,,EX,1050195,19911938161,,,,marketing@consolidador.com,,1,1,5,False,True,LISBOA,8751,3,O bairro é obrigatório. ,N/A
+1721176748,,Ivair Maximo,Ivair Maximo,,,,,,,,27999479333,,,,ivairmaximo@hotmail.com,,1,1,5,False,False,,6825,3,CNPJ inválido. Entre com um CNPJ válido. ,N/A
+,,Ionela Contor,Ionela Contor,Los abetos,22,,Azuqueca de henares,,EX,,,,,,nela.contor.4c@gmail.com,,1,1,5,False,True,Guadalajara,5979,3,O CEP é obrigatório. ,N/A

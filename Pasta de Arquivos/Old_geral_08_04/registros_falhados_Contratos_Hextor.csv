@@ -1,0 +1,29 @@
+﻿cnpj_cpf_cliente,referencia,referencia_busca_cliente,data_primeiro_vencimento,dia_vencimento,descricao,numero,codigo_vendedor,data_vigencia_inicial,data_vigencia_final,situacao,recorrencia,tipo_faturamento,indice_reajuste,codigo_banco_conta,codigo_forma_pagamento,codigo_plano_contas,codigo_condicao_pagamento,observacao_fiscal,observacao_nao_fiscal,data_proximo_reajuste,servicos.referencia,servicos.quantidade,servicos.valor_unitario,servicos.complemento,tipo_desconto_boleto_ate_vencimento,valor_desconto_boleto_ate_vencimento,id_importacao_pessoa,Mensagem,Id
+,5222,1,03/05/2025,3,,,18,15/08/2002,,,1,1,0,2,5,133,0,,,,4,1,0,,0,0,12146,Já existe um contrato com essa referência! Utilize o endpoint de atualização para editar o contrato.,N/A
+,5222,1,03/05/2025,3,,,18,15/08/2024,,,1,1,0,2,5,133,0,,,,4,1,0,,0,0,12146,Já existe um contrato com essa referência! Utilize o endpoint de atualização para editar o contrato.,N/A
+,5222,1,03/05/2025,3,,,18,15/08/2024,,,1,1,0,2,5,133,0,,,,123,1,0,,0,0,12146,Já existe um contrato com essa referência! Utilize o endpoint de atualização para editar o contrato.,N/A
+,4661,1,02/05/2025,2,,,20,01/01/2024,,,1,1,0,2,5,133,0,,,,95,1,0,,0,0,11648,Erro desconhecido,N/A
+,4661,1,02/05/2025,2,,,20,01/01/2024,,,1,1,0,2,5,133,0,,,,4,1,0,,0,0,11648,Erro desconhecido,N/A
+,4661,1,02/05/2025,2,,,20,01/01/2024,,,1,1,0,2,5,133,0,,,,120,1,0,,0,0,11648,Erro desconhecido,N/A
+,4661,1,02/05/2025,2,,,20,01/01/2024,,,1,1,0,2,5,133,0,,,,135,1,0,,0,0,11648,Erro desconhecido,N/A
+,4661,1,02/05/2025,2,,,20,02/10/2024,,,1,1,0,2,5,133,0,,,,31,1,0,,0,0,11648,Erro desconhecido,N/A
+,2127,1,10/05/2025,10,,,18,01/05/2002,,,1,1,0,2,5,133,0,,,,116,1,0,,0,0,8363,Erro desconhecido,N/A
+,2127,1,10/05/2025,10,,,18,01/08/2020,,,1,1,0,2,5,133,0,,,,4,1,0,,0,0,8363,Erro desconhecido,N/A
+,2127,1,10/05/2025,10,,,18,01/05/2023,,,1,1,0,2,5,133,0,,,,120,1,0,,0,0,8363,Erro desconhecido,N/A
+,2127,1,10/05/2025,10,,,18,01/05/2023,,,1,1,0,2,5,133,0,,,,95,1,0,,0,0,8363,Erro desconhecido,N/A
+,2127,1,10/05/2025,10,,,18,01/05/2023,,,1,1,0,2,5,133,0,,,,117,1,0,,0,0,8363,Erro desconhecido,N/A
+,2127,1,10/05/2025,10,,,18,01/05/2023,,,1,1,0,2,5,133,0,,,,18,1,0,,0,0,8363,Erro desconhecido,N/A
+,4687,1,03/05/2025,3,,,4,01/02/2004,,,1,1,0,2,5,133,0,,,,95,1,0,,0,0,5707,Erro desconhecido,N/A
+,4687,1,03/05/2025,3,,,4,01/02/2024,,,1,1,0,2,5,133,0,,,,4,1,0,,0,0,5707,Erro desconhecido,N/A
+,4687,1,03/05/2025,3,,,4,01/02/2024,,,1,1,0,2,5,133,0,,,,116,1,0,,0,0,5707,Erro desconhecido,N/A
+,4687,1,03/05/2025,3,,,4,01/02/2024,,,1,1,0,2,5,133,0,,,,95,1,0,,0,0,5707,Erro desconhecido,N/A
+1,1134,159,1,5458,"410,16",,03/05/2025,3,01/05/2016,01/05/2016,,4,0,3,5,,10,10,5,1,0,Erro de processamento: invalid literal for int() with base 10: '',N/A
+1,1134,159,1,5458,"87,48",,03/05/2025,3,01/07/2023,01/07/2023,,95,0,3,5,,10,10,0,1,0,Erro de processamento: invalid literal for int() with base 10: '',N/A
+1,1134,159,1,5458,"270,00",,04/05/2025,4,03/12/2024,03/12/2024,,117,0,3,5,,10,10,0,1,0,Erro de processamento: invalid literal for int() with base 10: '',N/A
+,390,1,05/05/2025,5,,6436,29,01/08/2017,,,1,1,0,2,5,133,0,,,,4,1,0,,0,0,6436,Erro desconhecido,N/A
+,390,1,05/05/2025,5,,6436,29,01/09/2023,,,1,1,0,2,5,133,0,,,,95,1,0,,0,0,6436,Erro desconhecido,N/A
+,390,1,05/05/2025,5,,6436,29,01/09/2023,,,1,1,0,2,5,133,0,,,,95,1,0,,0,0,6436,Erro desconhecido,N/A
+,390,1,05/05/2025,5,,6436,29,01/09/2023,,,1,1,0,2,5,133,0,,,,117,1,0,,0,0,6436,Erro desconhecido,N/A
+,390,1,05/05/2025,5,,6436,29,05/04/2024,,,1,1,0,2,5,133,0,,,,131,1,0,,0,0,6436,Erro desconhecido,N/A
+,390,1,05/05/2025,5,,6436,29,16/07/2024,,,1,1,0,2,5,133,0,,,,120,1,0,,0,0,6436,Erro desconhecido,N/A
+,390,1,05/05/2025,5,,6436,29,05/12/2024,,,1,1,0,2,5,133,0,,,,18,1,0,,0,0,6436,Erro desconhecido,N/A

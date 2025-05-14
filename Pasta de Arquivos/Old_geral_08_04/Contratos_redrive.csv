@@ -1,0 +1,10 @@
+referencia_busca_cliente;id_importacao_pessoa;referencia;numero;data_primeiro_vencimento;dia_vencimento;data_vigencia_inicial;data_vigencia_final;servicos.referencia;PLANO;recorrencia;servicos.valor_unitario;codigo_forma_pagamento;codigo_banco_conta;tipo_faturamento;codigo_vendedor
+1;35247;37955;37955;11/03/2025;11;11/03/2025;;31;Enterprise;1;797;13;2;1;1
+1;35246;37954;37954;11/03/2025;11;11/03/2025;10/03/2026;32;Enterprise Anual;12;8364;13;2;1;1
+1;35245;37953;37953;11/03/2025;11;11/03/2025;;29;PRO;1;497;13;2;1;1
+1;35244;37951;37951;11/03/2025;11;11/03/2025;16/03/2025;31;Enterprise;1;797;13;2;1;1
+1;35243;37948;37948;11/03/2025;11;11/03/2025;;31;Enterprise;1;797;13;2;1;1
+1;35242;37947;37947;11/03/2025;11;11/03/2025;11/03/2025;29;PRO;1;497;13;2;1;1
+1;35242;37949;37949;11/03/2025;11;11/03/2025;11/03/2025;29;PRO;1;497;13;2;1;1
+1;35242;37950;37950;11/03/2025;11;11/03/2025;11/03/2025;29;PRO;1;497;13;2;1;1
+1;35242;37952;37952;11/03/2025;11;11/03/2025;;29;PRO;1;497;13;2;1;1

@@ -1,0 +1,2 @@
+id_importacao;cpfcnpj_pessoa;numero_titulo;codigo_banco;codigo_forma_pagamento;codigo_plano_contas;data_emissao;data_vencimento;valor;observacao;parcela;numero_documento;valor_pago;data_ultimo_pagamento;valor_juros_pago;valor_juros_pago
+1;012.700.919-13;1;1;39;46;11/09/2024;11/09/2024;;TESTE VIA API;1;1;10;11/09/2024;;

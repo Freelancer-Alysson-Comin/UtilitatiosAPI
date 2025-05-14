@@ -1,0 +1,5 @@
+referencia;numero;cnpj_cpf_cliente;descricao;servicos.referencia;servicos.quantidade;servicos.complemento;data_vigencia_inicial;data_vigencia_final;observacao_nao_fiscal;servicos.valor_unitario;dia_vencimento;data_primeiro_vencimento;data_proximo_reajuste;codigo_vendedor;situacao;recorrencia;tipo_faturamento;indice_reajuste;codigo_banco_conta;codigo_forma_pagamento;codigo_plano_contas;codigo_condicao_pagamento;observacao_fiscal
+1111;2208;012.700.919-13;Contrato com mais de um serviço;2;1;;05/03/2025;;Fidelidade 30/01/2026;279,9;4;05/03/2025;05/03/2026;1;1;1;1;0;1;5;7;;
+1111;2208;012.700.919-13;Contrato com mais de um serviço;3;1;;05/03/2025;;Fidelidade 30/01/2026;279,9;4;05/03/2025;05/03/2026;1;1;1;1;0;1;5;7;;
+;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;

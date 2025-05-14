@@ -1,0 +1,2 @@
+id;nome_cliente;cnpj_cliente;numero;parcela;emissao;vencimento;ultimo_pagamento;observacao;plano_contas;nome_centro_resultados_1;percentual_centro_resultados_1;valor;valor_pago;juros;desconto;banco;forma_pagamento
+1;ADYEN DO BRASIL LTDA;;1;1;03/01/2022;03/01/2022;03/01/2022;É P;Despesas variáveis;ADMINISTRATIVO;100;49,29;49,29;0;0;SANTANDER;PIX/TED/TEV/DOC

@@ -1,0 +1,10 @@
+﻿codigo_pessoa,cpfcnpj_pessoa,codigo_banco,codigo_forma_pagamento,data_emissao,data_vencimento,valor,observacao,id_importacao,parcela,numero_titulo,numero_documento,valor_pago,data_ultimo_pagamento,codigo_plano_contas,valor_juros_pago,valor_desconto_pago,Mensagem,Id
+,773.116.554-04,2,11,01/07/2021,20/07/2021,"200,00",KIT MOLDURAS + FOTOS. Qtd: 1 ,332467446,1,332467446,,"200,00",13/07/2021,7,"0,00","0,00",Títulos pagos não podem ser editados!,N/A
+,521.558.381-15,2,11,26/09/2021,26/09/2021,"10,000,00",Evento de formatura. Qtd: 1 ,356480207,1,356480207,,"0,00",,7,"0,00","0,00",Valor do título não pode ser igual ou menor que zero,N/A
+,521.558.381-15,2,11,17/11/2021,17/11/2021,"10,000,00",Evento formatura. Qtd: 1 ,374221610,1,374221610,,"0,00",,7,"0,00","0,00",Valor do título não pode ser igual ou menor que zero,N/A
+,036.387.341-45,2,3,23/11/2022,,"224,00",Venda 3 fotos digitais. Qtd: 1 ,494893128,1,494893128,,"230,70",23/11/2022,7,"6,70","0,00",Data de vencimento inválida,N/A
+,521.558.381-15,2,11,10/04/2023,11/04/2023,"2,392,00",ALBUM FOTOGRAFICO+FOTOS DIGITAIS,550590411,1,550590411,,"0,00",,7,"0,00","0,00",Valor do título não pode ser igual ou menor que zero,N/A
+,033.623.771-57,2,11,14/05/2024,20/08/2024,"1,900,00",ALBUM FOTOGRAFICO. Qtd: 1 ,717164091,1,717164091,,"0,00",,7,"0,00","0,00",Valor do título não pode ser igual ou menor que zero,N/A
+,056.466.213-56,2,11,17/07/2024,30/07/2024,"1,960,00",ALBUM FOTOGRAFICO+FOTOS DIGITAIS. Qtd: 1 ,743437513,1,743437513,,"0,00",,7,"0,00","0,00",Valor do título não pode ser igual ou menor que zero,N/A
+,744.025.791-04,2,11,26/10/2024,30/10/2024,"3,738,00",ALBUM FOTOGRAFICO+FOTOS DIGITAIS. Qtd: 1 ,778393472,1,778393472,,"0,00",,7,"0,00","0,00",Valor do título não pode ser igual ou menor que zero,N/A
+,114.335.447-84,2,11,08/01/2025,10/01/2025,"1,370,00",RENEGOCIAÇÃO. Qtd: 1 ,815371517,1,815371517,,"1370,00",08/01/2025,7,"0,00","0,00",Valor do título não pode ser igual ou menor que zero,N/A
